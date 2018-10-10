@@ -32,3 +32,4 @@ https://itunes.apple.com/us/app/arkana-labs-connect/id1391128743?ls=1&mt=8
 ---
 
 ![scrrenshot](design/android/screens/05 - Notifications.png)
+
